@@ -1,0 +1,65 @@
+2020-07-14 10:08:03,686 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-14 10:08:03,698 - com.orangeHRTestcases.Baseclass -INFO - Browser launched
+2020-07-14 10:08:05,386 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-14 10:08:05,466 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-14 10:08:07,912 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-14 10:08:07,920 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-14 10:08:08,050 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-14 10:50:01,635 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-14 10:50:01,647 - com.orangeHRTestcases.Baseclass -INFO - Browser launched
+2020-07-14 10:50:03,730 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-14 10:50:03,866 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-14 10:50:06,294 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-14 10:50:06,299 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-14 10:50:07,093 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-14 20:45:52,224 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-14 20:45:52,266 - com.orangeHRTestcases.Baseclass -INFO - Browser launched
+2020-07-14 20:45:56,740 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 09:12:10,444 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 09:12:10,458 - com.orangeHRTestcases.Baseclass -INFO - Browser launched
+2020-07-15 09:12:20,787 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 09:45:57,062 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 09:45:57,140 - com.orangeHRTestcases.Baseclass -INFO - Browser launched
+2020-07-15 09:46:05,519 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 09:53:47,653 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 09:53:49,501 - com.orangeHRTestcases.Baseclass -INFO - website is launched
+2020-07-15 09:53:49,737 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-15 09:53:49,874 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-15 09:53:52,341 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-15 09:53:52,381 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-15 09:53:52,564 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 10:18:10,997 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 10:18:12,469 - com.orangeHRTestcases.Baseclass -INFO - website is launched
+2020-07-15 10:18:12,620 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-15 10:18:12,752 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-15 10:18:14,494 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-15 10:18:14,503 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-15 10:18:14,678 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 10:27:00,971 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 10:27:02,533 - com.orangeHRTestcases.Baseclass -INFO - website is launched
+2020-07-15 10:27:02,664 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-15 10:27:02,752 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-15 10:27:04,790 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-15 10:27:04,796 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-15 10:27:06,295 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 11:12:21,222 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 11:12:23,203 - com.orangeHRTestcases.Baseclass -INFO - website is launched
+2020-07-15 11:12:23,431 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-15 11:12:23,511 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-15 11:12:27,009 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-15 11:12:27,017 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-15 11:12:27,280 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 11:14:04,714 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 11:14:06,572 - com.orangeHRTestcases.Baseclass -INFO - website is launched
+2020-07-15 11:14:06,761 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-15 11:14:06,916 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-15 11:14:09,262 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-15 11:14:09,280 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-15 11:14:09,449 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
+2020-07-15 18:18:30,694 - com.orangeHRTestcases.Baseclass -INFO - Browser maximized
+2020-07-15 18:18:32,287 - com.orangeHRTestcases.Baseclass -INFO - website is launched
+2020-07-15 18:18:32,482 - com.orangeHRTestcases.Baseclass -INFO - Entered username
+2020-07-15 18:18:32,568 - com.orangeHRTestcases.Baseclass -INFO - Entered password
+2020-07-15 18:18:35,080 - com.orangeHRTestcases.Baseclass -INFO - Clicked loginbutton
+2020-07-15 18:18:35,087 - com.orangeHRTestcases.Baseclass -INFO - Title retrieved
+2020-07-15 18:18:35,203 - com.orangeHRTestcases.Baseclass -INFO - Browser quit/closed
